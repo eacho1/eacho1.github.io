@@ -1,0 +1,21 @@
+{
+  "name": "wasteboat",
+  "authors": [
+    "arshan <arshankhanifar@gmail.com>"
+  ],
+  "description": "uw boat website",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}

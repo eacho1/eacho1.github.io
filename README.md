@@ -1,2 +1,2 @@
-# eacho1.github.io
-uwast website hosting
+# uWaterlooSailBotTeam
+this is uwaterloo sail bot team's website
