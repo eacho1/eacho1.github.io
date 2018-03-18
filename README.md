@@ -1,2 +1,2 @@
-# uWaterlooSailBotTeam
-this is uwaterloo sail bot team's website
+# y/doods
+this is a hackathon project to display doodles

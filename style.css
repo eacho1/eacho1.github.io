@@ -1,0 +1,38 @@
+.col {
+	cursor: pointer;
+}
+
+.thumbail {
+	max-width: 230px;
+
+	transition: all 0.3s ease;
+	cursor: pointer;
+	margin: 1px;
+}
+
+.col:hover .thumbail{
+	max-width: 250px;
+
+	transition: all 0.3s ease;
+}
+
+.full-picture {
+	max-width: 760px;
+}
+
+.jumbotron {
+	margin-top: 5px;
+}
+
+.search-bar {
+	margin-bottom: 15px;
+}
+
+.hidden {
+	display: none;
+}
+
+.modal-body {
+	margin-right: auto;
+	margin-left: auto;
+}
